@@ -1,0 +1,10 @@
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\bin\Release\netstandard2.0\jph_basics.Server.deps.json
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\bin\Release\netstandard2.0\jph_basics.Server.net.dll
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\bin\Release\netstandard2.0\jph_basics.Server.net.pdb
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\obj\Release\netstandard2.0\jph_basics.Server.csproj.AssemblyReference.cache
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\obj\Release\netstandard2.0\jph_basics.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\obj\Release\netstandard2.0\jph_basics.Server.AssemblyInfoInputs.cache
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\obj\Release\netstandard2.0\jph_basics.Server.AssemblyInfo.cs
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\obj\Release\netstandard2.0\jph_basics.Server.csproj.CoreCompileInputs.cache
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\obj\Release\netstandard2.0\jph_basics.Server.net.dll
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\obj\Release\netstandard2.0\jph_basics.Server.net.pdb

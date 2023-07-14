@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sacha\\Documents\\dev\\fivem\\fxserver\\server-data\\resources\\[local]\\jph_basics\\Client\\jph_basics.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sacha\\Documents\\dev\\fivem\\fxserver\\server-data\\resources\\[local]\\jph_basics\\Client\\jph_basics.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sacha\\Documents\\dev\\fivem\\fxserver\\server-data\\resources\\[local]\\jph_basics\\Client\\jph_basics.Client.csproj",
+        "projectName": "jph_basics.Client",
+        "projectPath": "C:\\Users\\sacha\\Documents\\dev\\fivem\\fxserver\\server-data\\resources\\[local]\\jph_basics\\Client\\jph_basics.Client.csproj",
+        "packagesPath": "C:\\Users\\sacha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sacha\\Documents\\dev\\fivem\\fxserver\\server-data\\resources\\[local]\\jph_basics\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sacha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "dependencies": {
+            "CitizenFX.Core.Client": {
+              "target": "Package",
+              "version": "[1.0.*, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "downloadDependencies": [
+            {
+              "name": "CitizenFX.Framework.Client",
+              "version": "[0.2.3, 0.2.3]"
+            }
+          ],
+          "frameworkReferences": {
+            "CitizenFX.Framework.Client": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

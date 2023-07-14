@@ -1,0 +1,9 @@
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\bin\Release\net452\jph_basics.Client.net.dll
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\bin\Release\net452\CitizenFX.Core.Client.dll
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\obj\Release\net452\jph_basics.Client.csproj.AssemblyReference.cache
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\obj\Release\net452\jph_basics.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\obj\Release\net452\jph_basics.Client.AssemblyInfoInputs.cache
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\obj\Release\net452\jph_basics.Client.AssemblyInfo.cs
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\obj\Release\net452\jph_basics.Client.csproj.CoreCompileInputs.cache
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\obj\Release\net452\jph_basics.Client.csproj.CopyComplete
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\obj\Release\net452\jph_basics.Client.net.dll

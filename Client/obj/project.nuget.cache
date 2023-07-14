@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M24kqDKFdugbsr8yUAO7XBfejfopwIWWeXmsurUdMFi9HwIvmCgJ8zpOG56eYgMUcl0Q0KHzDC+tX79Alv4UDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sacha\\Documents\\dev\\fivem\\fxserver\\server-data\\resources\\[local]\\jph_basics\\Client\\jph_basics.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sacha\\.nuget\\packages\\citizenfx.core.client\\1.0.6370\\citizenfx.core.client.1.0.6370.nupkg.sha512",
+    "C:\\Users\\sacha\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\sacha\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512",
+    "C:\\Users\\sacha\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

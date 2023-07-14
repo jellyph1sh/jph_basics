@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oD/Cq9dTjiSXA03dAT0JIEgaIRkxf7sDi6LX2EzPUPQR8M+Bih0fFs9P5WY1UZmoHY1jOyVOabw1AuTvDNWI5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sacha\\Documents\\dev\\fivem\\fxserver\\server-data\\resources\\[local]\\jph_basics\\Server\\jph_basics.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sacha\\.nuget\\packages\\citizenfx.core.server\\1.0.6335\\citizenfx.core.server.1.0.6335.nupkg.sha512",
+    "C:\\Users\\sacha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sacha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

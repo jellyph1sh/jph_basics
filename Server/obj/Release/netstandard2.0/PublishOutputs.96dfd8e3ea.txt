@@ -1,0 +1,4 @@
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\bin\Release\netstandard2.0\publish\jph_basics.Server.net.dll
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\bin\Release\netstandard2.0\publish\jph_basics.Server.deps.json
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\bin\Release\netstandard2.0\publish\jph_basics.Server.net.pdb
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Server\bin\Release\netstandard2.0\publish\CitizenFX.Core.Server.dll
