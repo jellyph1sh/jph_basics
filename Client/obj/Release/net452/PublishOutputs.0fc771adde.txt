@@ -1,2 +1,3 @@
 C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\bin\Release\net452\publish\jph_basics.Client.net.dll
 C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\bin\Release\net452\publish\LemonUI.FiveM.dll

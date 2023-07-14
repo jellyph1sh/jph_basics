@@ -15,6 +15,22 @@
           }
         }
       },
+      "LemonUI.FiveM/1.10.0": {
+        "type": "package",
+        "dependencies": {
+          "CitizenFX.Core.Client": "1.0.6008"
+        },
+        "compile": {
+          "lib/net452/LemonUI.FiveM.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net452/LemonUI.FiveM.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.NETFramework.ReferenceAssemblies/1.0.3": {
         "type": "package",
         "dependencies": {
@@ -41,6 +57,21 @@
         "citizenfx.core.client.nuspec",
         "lib/net45/CitizenFX.Core.Client.dll",
         "lib/net45/CitizenFX.Core.Client.xml"
+      ]
+    },
+    "LemonUI.FiveM/1.10.0": {
+      "sha512": "nluwsaPMzsQet26HCKE3QH1b8eQnbbRogCi7GOZMi4KtU3N8cH9/ek+7vGFRGpn0iL0YQxCmWFj1B5MHu0DV3w==",
+      "type": "package",
+      "path": "lemonui.fivem/1.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lemonui.fivem.1.10.0.nupkg.sha512",
+        "lemonui.fivem.nuspec",
+        "lib/net452/LemonUI.FiveM.dll",
+        "lib/net452/LemonUI.FiveM.xml",
+        "logo.png"
       ]
     },
     "Microsoft.NETFramework.ReferenceAssemblies/1.0.3": {
@@ -380,6 +411,7 @@
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.5.2": [
       "CitizenFX.Core.Client >= 1.0.*",
+      "LemonUI.FiveM >= 1.10.0",
       "Microsoft.NETFramework.ReferenceAssemblies >= 1.0.3"
     ]
   },
@@ -423,6 +455,10 @@
           "CitizenFX.Core.Client": {
             "target": "Package",
             "version": "[1.0.*, )"
+          },
+          "LemonUI.FiveM": {
+            "target": "Package",
+            "version": "[1.10.0, )"
           },
           "Microsoft.NETFramework.ReferenceAssemblies": {
             "suppressParent": "All",

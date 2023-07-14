@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using LemonUI;
+using LemonUI.Menus;
 using CitizenFX.Core;
 using static CitizenFX.Core.Native.API;
 
@@ -8,6 +10,13 @@ namespace jph_basics.Client
 {
     public class ClientMain : BaseScript
     {
+        ObjectPool pool;
+        NativeMenu menu;
+        int lastTime = 0;
+        public ClientMain() {
+            pool = new ObjectPool();
+            WeaponMenu();
+        }
         public void Notify(string text) {
             BeginTextCommandThefeedPost("STRING");
             AddTextComponentSubstringPlayerName(text);
@@ -58,5 +67,26 @@ namespace jph_basics.Client
                 Notify(($"~g~Successfully give {args[1]} to player {args[0]}!"));
             }
         }
+
+        public void WeaponMenu() {
+            menu = new NativeMenu("Weapons", "~b~Get all the weapons you want!");
+            pool.Add(menu);
+        }
+
+        // [Tick]
+        // public Task WeaponProcessMenu()
+        // {
+        //     var currentTime = GetGameTimer();
+        //     if (IsControlPressed(0, 29)) {
+        //         if (currentTime - lastTime >= 600) {
+        //             lastTime = GetGameTimer();
+        //             menu.Visible = !menu.Visible;
+        //         }
+        //     }
+        //     if (menu.Visible) {
+        //         pool.Process();
+        //     }
+        //     return Task.FromResult(5);
+        // }
     }
 }

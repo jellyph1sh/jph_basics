@@ -7,3 +7,4 @@ C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_ba
 C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\obj\Release\net452\jph_basics.Client.csproj.CoreCompileInputs.cache
 C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\obj\Release\net452\jph_basics.Client.csproj.CopyComplete
 C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\obj\Release\net452\jph_basics.Client.net.dll
+C:\Users\sacha\Documents\dev\fivem\fxserver\server-data\resources\[local]\jph_basics\Client\bin\Release\net452\LemonUI.FiveM.dll
